@@ -6,7 +6,7 @@ on introduction to  Rust
 ([@INSA Lyon - Département Télécommunications, Services et Usages](https://telecom.insa-lyon.fr/) 
 && [@Emeraude Research Team](https://team.inria.fr/emeraude/)).
 
-The [crate `mydsp-jack`]{https://github.com/Longrui-Ma/mydsp-jack} was first developped by Longrui Ma adapting the functionalities found in 
+The [crate `mydsp-jack`](https://github.com/Longrui-Ma/mydsp-jack) was first developped by Longrui Ma adapting the functionalities found in 
 [the original C++ `mydsp` library](https://github.com/grame-cncm/embaudio/tree/master/examples/teensy/libraries/mydsp) to Jack and Rust.
 
 # How to use 
