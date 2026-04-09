@@ -11,5 +11,5 @@ The [crate `mydsp-jack`](https://github.com/Longrui-Ma/mydsp-jack) was first dev
 [the original C++ `mydsp` library](https://github.com/grame-cncm/embaudio/tree/master/examples/teensy/libraries/mydsp) to Jack and Rust.
 
 # How to use 
-[`mydsp-rust-example` crate](https://github.com/inria-emeraude/mydsp-rust-example) show examples of using the 'mydsp-rust' crate with jack
+[`mydsp-rust-examples` crate](https://github.com/inria-emeraude/mydsp-rust-examples) show examples of using the 'mydsp-rust' crate with jack
 
